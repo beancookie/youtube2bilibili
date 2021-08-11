@@ -11,5 +11,5 @@ videos
 *.jpg
 
 # 字幕
-*.rst
+*.srt
 *.bcc
