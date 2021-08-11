@@ -1,0 +1,14 @@
+# python
+__pycache__
+
+# 数据库文件
+*.json
+
+# 视频
+*.mp4
+# 视频封面
+*.jpg
+
+# 字幕
+*.rst
+*.bcc
