@@ -5,6 +5,7 @@ __pycache__
 *.json
 
 # 视频
+videos
 *.mp4
 # 视频封面
 *.jpg
